@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## A page for the Sentiment Analysis project
 
 You can use the [editor on GitHub](https://github.com/jinhuang-de/Sentiment_Analysis_NeuralNetwork/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
