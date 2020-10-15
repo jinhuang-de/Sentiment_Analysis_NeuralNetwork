@@ -1,4 +1,11 @@
 # Sentiment_Analysis_NeuralNetwork
 
-A conputentional linguistical project for Heidelberg University.
-Analysis and predict the sentiment of text data in Instagram with RNN.
+This is the repository for the project of the 'Introduction to Neural Networks and Sequence-To-Sequence Learning' at Department of Computational Linguistics, Heidelberg University, Germany.
+
+Project structure:
+corpus: Sentiment140
+data: handle data, preprocessed data and preprocessed splited datasets
+embeddings: glove.twitter.27B.100d
+models: saved pytorch checkpoints
+- BiLSTM
+- Text CNN
